@@ -1,4 +1,4 @@
-# instagram_flutter
+# instagram_flutter_Image
 
 ![image](https://user-images.githubusercontent.com/86878581/199146459-d921491f-66cd-4459-9e72-c5c1941d8c63.png)
 ![post](https://user-images.githubusercontent.com/86878581/199146560-c3e3bf23-c3fc-45c2-a9d9-677180529846.png)
